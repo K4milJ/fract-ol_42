@@ -1,6 +1,6 @@
 ## fract-ol
 
-Fract-ol is a graphical program that displays and lets the user explore various mathematical fractals. It is implemented in C using the MiniLibX graphics library and provides interactive controls for moving, zooming, and increasing/decreasing level of detail.
+Fract-ol is a graphical program that displays and lets the user explore various mathematical fractals. It is implemented in C using the [MiniLibX](https://github.com/42paris/minilibx-linux) graphics library and provides interactive controls for moving, zooming, and increasing/decreasing level of detail.
 
 ## Compilation
 
